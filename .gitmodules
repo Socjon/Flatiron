@@ -739,3 +739,273 @@
 [submodule "Module_2/Project/dsc-2-final-project-online-ds-pt-100118"]
 	path = Module_2/Project/dsc-2-final-project-online-ds-pt-100118
 	url = https://github.com/Socjon/dsc-2-final-project-online-ds-pt-100118
+[submodule "Module_2/13-linear-algebra/dsc-2-13-06-linalg-scalars-vectors-matrices-tensors-codealong-online-ds-pt-100118"]
+	path = Module_2/13-linear-algebra/dsc-2-13-06-linalg-scalars-vectors-matrices-tensors-codealong-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-13-06-linalg-scalars-vectors-matrices-tensors-codealong-online-ds-pt-100118
+[submodule "Module_2/13-linear-algebra/dsc-2-13-07-linalg-vector-addition-codealong-online-ds-pt-100118"]
+	path = Module_2/13-linear-algebra/dsc-2-13-07-linalg-vector-addition-codealong-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-13-07-linalg-vector-addition-codealong-online-ds-pt-100118
+[submodule "Module_2/13-linear-algebra/dsc-2-13-18-section-recap-summary-online-ds-pt-100118"]
+	path = Module_2/13-linear-algebra/dsc-2-13-18-section-recap-summary-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-13-18-section-recap-summary-online-ds-pt-100118
+[submodule "Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-02-introduction-summary-online-ds-pt-100118"]
+	path = Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-02-introduction-summary-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-14-02-introduction-summary-online-ds-pt-100118
+[submodule "Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-03-introduction-to-derivatives-online-ds-pt-100118"]
+	path = Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-03-introduction-to-derivatives-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-14-03-introduction-to-derivatives-online-ds-pt-100118
+[submodule "Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-05-derivatives-of-non-linear-functions-online-ds-pt-100118"]
+	path = Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-05-derivatives-of-non-linear-functions-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-14-05-derivatives-of-non-linear-functions-online-ds-pt-100118
+[submodule "Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-06-rules-for-derivatives-online-ds-pt-100118"]
+	path = Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-06-rules-for-derivatives-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-14-06-rules-for-derivatives-online-ds-pt-100118
+[submodule "Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-11-gradient-descent-step-sizes-online-ds-pt-100118"]
+	path = Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-11-gradient-descent-step-sizes-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-14-11-gradient-descent-step-sizes-online-ds-pt-100118
+[submodule "Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-13-gradient-descent-in-3d-online-ds-pt-100118"]
+	path = Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-13-gradient-descent-in-3d-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-14-13-gradient-descent-in-3d-online-ds-pt-100118
+[submodule "Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-14-the-gradient-in-gradient-descent-online-ds-pt-100118"]
+	path = Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-14-the-gradient-in-gradient-descent-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-14-14-the-gradient-in-gradient-descent-online-ds-pt-100118
+[submodule "Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-15-gradient-to-cost-function-online-ds-pt-100118"]
+	path = Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-15-gradient-to-cost-function-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-14-15-gradient-to-cost-function-online-ds-pt-100118
+[submodule "Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-14-section-recap-summary-online-ds-pt-100118"]
+	path = Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-14-section-recap-summary-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-14-14-section-recap-summary-online-ds-pt-100118
+[submodule "Module_2/15-an-introduction-to-orms/dsc-2-15-02-introduction-summary-online-ds-pt-100118"]
+	path = Module_2/15-an-introduction-to-orms/dsc-2-15-02-introduction-summary-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-15-02-introduction-summary-online-ds-pt-100118
+[submodule "Module_2/13-linear-algebra/dsc-2-13-06-reading-erd-diagrams-online-ds-pt-100118"]
+	path = Module_2/13-linear-algebra/dsc-2-13-06-reading-erd-diagrams-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-13-06-reading-erd-diagrams-online-ds-pt-100118
+[submodule "Module_2/13-linear-algebra/dsc-2-13-09-many-to-many-relationships-online-ds-pt-100118"]
+	path = Module_2/13-linear-algebra/dsc-2-13-09-many-to-many-relationships-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-13-09-many-to-many-relationships-online-ds-pt-100118
+[submodule "Module_2/13-linear-algebra/dsc-2-13-13-section-recap-summary-online-ds-pt-100118"]
+	path = Module_2/13-linear-algebra/dsc-2-13-13-section-recap-summary-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-13-13-section-recap-summary-online-ds-pt-100118
+[submodule "Module_2/16-working-with-json-and-xml/dsc-2-16-02-introduction-summary-online-ds-pt-100118"]
+	path = Module_2/16-working-with-json-and-xml/dsc-2-16-02-introduction-summary-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-16-02-introduction-summary-online-ds-pt-100118
+[submodule "Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-05-known-json-schemas-online-ds-pt-100118"]
+	path = Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-05-known-json-schemas-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-14-05-known-json-schemas-online-ds-pt-100118
+[submodule "Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-07-recursive-fuctions-online-ds-pt-100118"]
+	path = Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-07-recursive-fuctions-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-14-07-recursive-fuctions-online-ds-pt-100118
+[submodule "Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-10-exploring-json-schemas-lab-online-ds-pt-100118"]
+	path = Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-10-exploring-json-schemas-lab-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-14-10-exploring-json-schemas-lab-online-ds-pt-100118
+[submodule "Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-11-no-sql-databases-online-ds-pt-100118"]
+	path = Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-11-no-sql-databases-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-14-11-no-sql-databases-online-ds-pt-100118
+[submodule "Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-12-no-sql-databases-qz-online-ds-pt-100118"]
+	path = Module_2/14-calculus-cost-function-and-gradient-descent/dsc-2-14-12-no-sql-databases-qz-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-14-12-no-sql-databases-qz-online-ds-pt-100118
+[submodule "Module_2/16-working-with-json-and-xml/dsc-2-16-14-section-recap-summary-online-ds-pt-100118"]
+	path = Module_2/16-working-with-json-and-xml/dsc-2-16-14-section-recap-summary-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-16-14-section-recap-summary-online-ds-pt-100118
+[submodule "Module_2/17-accessing-data-through-apis/dsc-2-17-02-introduction-summary-online-ds-pt-100118"]
+	path = Module_2/17-accessing-data-through-apis/dsc-2-17-02-introduction-summary-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-17-02-introduction-summary-online-ds-pt-100118
+[submodule "Module_2/15-an-introduction-to-orms/dsc-2-15-03-intro-to-APIs-online-ds-pt-100118"]
+	path = Module_2/15-an-introduction-to-orms/dsc-2-15-03-intro-to-APIs-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-15-03-intro-to-APIs-online-ds-pt-100118
+[submodule "Module_2/15-an-introduction-to-orms/dsc-2-15-04-clients-and-servers-online-ds-pt-100118"]
+	path = Module_2/15-an-introduction-to-orms/dsc-2-15-04-clients-and-servers-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-15-04-clients-and-servers-online-ds-pt-100118
+[submodule "Module_2/17-accessing-data-through-apis/dsc-2-17-08-using-the-yelp-api-codealong-online-ds-pt-100118"]
+	path = Module_2/17-accessing-data-through-apis/dsc-2-17-08-using-the-yelp-api-codealong-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-17-08-using-the-yelp-api-codealong-online-ds-pt-100118
+[submodule "Module_2/17-accessing-data-through-apis/dsc-2-17-09-reading-api-documentation-online-ds-pt-100118"]
+	path = Module_2/17-accessing-data-through-apis/dsc-2-17-09-reading-api-documentation-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-17-09-reading-api-documentation-online-ds-pt-100118
+[submodule "Module_2/17-accessing-data-through-apis/dsc-2-17-12-section-recap-summary-online-ds-pt-100118"]
+	path = Module_2/17-accessing-data-through-apis/dsc-2-17-12-section-recap-summary-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-17-12-section-recap-summary-online-ds-pt-100118
+[submodule "Module_2/18-html-css-and-web-scraping/dsc-2-18-01-introduction-online-ds-pt-100118"]
+	path = Module_2/18-html-css-and-web-scraping/dsc-2-18-01-introduction-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-18-01-introduction-online-ds-pt-100118
+[submodule "Module_2/18-html-css-and-web-scraping/dsc-2-18-05-html5-semantic-elements-online-ds-pt-100118"]
+	path = Module_2/18-html-css-and-web-scraping/dsc-2-18-05-html5-semantic-elements-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-18-05-html5-semantic-elements-online-ds-pt-100118
+[submodule "Module_2/18-html-css-and-web-scraping/dsc-2-18-07-researching-html-elements-online-ds-pt-100118"]
+	path = Module_2/18-html-css-and-web-scraping/dsc-2-18-07-researching-html-elements-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-18-07-researching-html-elements-online-ds-pt-100118
+[submodule "Module_2/18-html-css-and-web-scraping/dsc-2-18-08-seperating-content-and-presentation-online-ds-pt-100118"]
+	path = Module_2/18-html-css-and-web-scraping/dsc-2-18-08-seperating-content-and-presentation-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-18-08-seperating-content-and-presentation-online-ds-pt-100118
+[submodule "Module_2/18-html-css-and-web-scraping/dsc-2-18-15-section-recap-online-ds-pt-100118"]
+	path = Module_2/18-html-css-and-web-scraping/dsc-2-18-15-section-recap-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-18-15-section-recap-online-ds-pt-100118
+[submodule "Module_2/19-distributions-and-sampling/dsc-2-19-01-introduction-online-ds-pt-100118"]
+	path = Module_2/19-distributions-and-sampling/dsc-2-19-01-introduction-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-19-01-introduction-online-ds-pt-100118
+[submodule "Module_2/19-distributions-and-sampling/dsc-2-19-03-statistical-distributions-online-ds-pt-100118"]
+	path = Module_2/19-distributions-and-sampling/dsc-2-19-03-statistical-distributions-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-19-03-statistical-distributions-online-ds-pt-100118
+[submodule "Module_2/19-distributions-and-sampling/dsc-2-19-05-geometric-distribution-online-ds-pt-100118"]
+	path = Module_2/19-distributions-and-sampling/dsc-2-19-05-geometric-distribution-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-19-05-geometric-distribution-online-ds-pt-100118
+[submodule "Module_2/19-distributions-and-sampling/dsc-2-19-09-exponential-distribution-online-ds-pt-100118"]
+	path = Module_2/19-distributions-and-sampling/dsc-2-19-09-exponential-distribution-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-19-09-exponential-distribution-online-ds-pt-100118
+[submodule "Module_2/19-distributions-and-sampling/dsc-2-19-11-introduction-to-sampling-online-ds-pt-100118"]
+	path = Module_2/19-distributions-and-sampling/dsc-2-19-11-introduction-to-sampling-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-19-11-introduction-to-sampling-online-ds-pt-100118
+[submodule "Module_2/19-distributions-and-sampling/dsc-2-19-12-central-limit-theorem-online-ds-pt-100118"]
+	path = Module_2/19-distributions-and-sampling/dsc-2-19-12-central-limit-theorem-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-19-12-central-limit-theorem-online-ds-pt-100118
+[submodule "Module_2/19-distributions-and-sampling/dsc-2-19-17-section-recap-online-ds-pt-100118"]
+	path = Module_2/19-distributions-and-sampling/dsc-2-19-17-section-recap-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-19-17-section-recap-online-ds-pt-100118
+[submodule "Module_2/20-hypothesis-and-ab-testing/dsc-2-20-01-introduction-online-ds-pt-100118"]
+	path = Module_2/20-hypothesis-and-ab-testing/dsc-2-20-01-introduction-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-20-01-introduction-online-ds-pt-100118
+[submodule "Module_2/20-hypothesis-and-ab-testing/dsc-2-20-03-introduction-to-experimental-design-online-ds-pt-100118"]
+	path = Module_2/20-hypothesis-and-ab-testing/dsc-2-20-03-introduction-to-experimental-design-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-20-03-introduction-to-experimental-design-online-ds-pt-100118
+[submodule "Module_2/20-hypothesis-and-ab-testing/dsc-2-20-12-statistical-power-online-ds-pt-100118"]
+	path = Module_2/20-hypothesis-and-ab-testing/dsc-2-20-12-statistical-power-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-20-12-statistical-power-online-ds-pt-100118
+[submodule "Module_2/20-hypothesis-and-ab-testing/dsc-2-20-15-multiple-comparisons-problem-online-ds-pt-100118"]
+	path = Module_2/20-hypothesis-and-ab-testing/dsc-2-20-15-multiple-comparisons-problem-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-20-15-multiple-comparisons-problem-online-ds-pt-100118
+[submodule "Module_2/20-hypothesis-and-ab-testing/dsc-2-20-16-ab-testing-online-ds-pt-100118"]
+	path = Module_2/20-hypothesis-and-ab-testing/dsc-2-20-16-ab-testing-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-20-16-ab-testing-online-ds-pt-100118
+[submodule "Module_2/20-hypothesis-and-ab-testing/dsc-2-20-18-goodhearts-law-and-metric-tracking-online-ds-pt-100118"]
+	path = Module_2/20-hypothesis-and-ab-testing/dsc-2-20-18-goodhearts-law-and-metric-tracking-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-20-18-goodhearts-law-and-metric-tracking-online-ds-pt-100118
+[submodule "Module_2/20-hypothesis-and-ab-testing/dsc-2-20-19-anova-online-ds-pt-100118"]
+	path = Module_2/20-hypothesis-and-ab-testing/dsc-2-20-19-anova-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-20-19-anova-online-ds-pt-100118
+[submodule "Module_2/20-hypothesis-and-ab-testing/dsc-2-20-18-section-recap-online-ds-pt-100118"]
+	path = Module_2/20-hypothesis-and-ab-testing/dsc-2-20-18-section-recap-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-20-18-section-recap-online-ds-pt-100118
+[submodule "Module_2/21-combinatorics-continued-and-maximum-likelihood-estimation/dsc-2-21-01-introduction-online-ds-pt-100118"]
+	path = Module_2/21-combinatorics-continued-and-maximum-likelihood-estimation/dsc-2-21-01-introduction-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-21-01-introduction-online-ds-pt-100118
+[submodule "Module_2/21-combinatorics-continued-and-maximum-likelihood-estimation/dsc-2-21-05-total-prob-law-online-ds-pt-100118"]
+	path = Module_2/21-combinatorics-continued-and-maximum-likelihood-estimation/dsc-2-21-05-total-prob-law-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-21-05-total-prob-law-online-ds-pt-100118
+[submodule "Module_2/21-combinatorics-continued-and-maximum-likelihood-estimation/dsc-2-21-06-total-prob-law-lab-online-ds-pt-100118"]
+	path = Module_2/21-combinatorics-continued-and-maximum-likelihood-estimation/dsc-2-21-06-total-prob-law-lab-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-21-06-total-prob-law-lab-online-ds-pt-100118
+[submodule "Module_2/21-combinatorics-continued-and-maximum-likelihood-estimation/dsc-2-21-08-bayes-theorem-online-ds-pt-100118"]
+	path = Module_2/21-combinatorics-continued-and-maximum-likelihood-estimation/dsc-2-21-08-bayes-theorem-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-21-08-bayes-theorem-online-ds-pt-100118
+[submodule "Module_2/21-combinatorics-continued-and-maximum-likelihood-estimation/dsc-2-21-09-bayes-theorem-lab-online-ds-pt-100118"]
+	path = Module_2/21-combinatorics-continued-and-maximum-likelihood-estimation/dsc-2-21-09-bayes-theorem-lab-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-21-09-bayes-theorem-lab-online-ds-pt-100118
+[submodule "Module_2/21-combinatorics-continued-and-maximum-likelihood-estimation/dsc-2-21-10-monty-hall-lab-online-ds-pt-100118"]
+	path = Module_2/21-combinatorics-continued-and-maximum-likelihood-estimation/dsc-2-21-10-monty-hall-lab-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-21-10-monty-hall-lab-online-ds-pt-100118
+[submodule "Module_2/21-combinatorics-continued-and-maximum-likelihood-estimation/dsc-2-21-15-frequentist-bayesian-essay-online-ds-pt-100118"]
+	path = Module_2/21-combinatorics-continued-and-maximum-likelihood-estimation/dsc-2-21-15-frequentist-bayesian-essay-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-21-15-frequentist-bayesian-essay-online-ds-pt-100118
+[submodule "Module_2/21-combinatorics-continued-and-maximum-likelihood-estimation/dsc-2-21-16-section-recap-online-ds-pt-100118"]
+	path = Module_2/21-combinatorics-continued-and-maximum-likelihood-estimation/dsc-2-21-16-section-recap-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-21-16-section-recap-online-ds-pt-100118
+[submodule "Module_2/22-bayesian-classification/dsc-2-22-01-introduction-online-ds-pt-100118"]
+	path = Module_2/22-bayesian-classification/dsc-2-22-01-introduction-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-22-01-introduction-online-ds-pt-100118
+[submodule "Module_2/22-bayesian-classification/dsc-2-22-03-MLE-Gaussian-online-ds-pt-100118"]
+	path = Module_2/22-bayesian-classification/dsc-2-22-03-MLE-Gaussian-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-22-03-MLE-Gaussian-online-ds-pt-100118
+[submodule "Module_2/22-bayesian-classification/dsc-2-22-06-naive-bayes-assumptions-online-ds-pt-100118"]
+	path = Module_2/22-bayesian-classification/dsc-2-22-06-naive-bayes-assumptions-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-22-06-naive-bayes-assumptions-online-ds-pt-100118
+[submodule "Module_2/22-bayesian-classification/dsc-2-22-10-natural-language-processing-online-ds-pt-100118"]
+	path = Module_2/22-bayesian-classification/dsc-2-22-10-natural-language-processing-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-22-10-natural-language-processing-online-ds-pt-100118
+[submodule "Module_2/22-bayesian-classification/dsc-2-22-15-optimality-of-naive-bayes-online-ds-pt-100118"]
+	path = Module_2/22-bayesian-classification/dsc-2-22-15-optimality-of-naive-bayes-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-22-15-optimality-of-naive-bayes-online-ds-pt-100118
+[submodule "Module_2/22-bayesian-classification/dsc-2-22-16-section-recap-online-ds-pt-100118"]
+	path = Module_2/22-bayesian-classification/dsc-2-22-16-section-recap-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-22-16-section-recap-online-ds-pt-100118
+[submodule "Module_2/23-resampling-and-monte-carlo-simulation/dsc-2-23-01-introduction-online-ds-pt-100118"]
+	path = Module_2/23-resampling-and-monte-carlo-simulation/dsc-2-23-01-introduction-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-23-01-introduction-online-ds-pt-100118
+[submodule "Module_2/23-resampling-and-monte-carlo-simulation/dsc-2-23-02-distributions-recap-online-ds-pt-100118"]
+	path = Module_2/23-resampling-and-monte-carlo-simulation/dsc-2-23-02-distributions-recap-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-23-02-distributions-recap-online-ds-pt-100118
+[submodule "Module_2/23-resampling-and-monte-carlo-simulation/dsc-2-23-03-kolmogorov-smirnov-test-online-ds-pt-100118"]
+	path = Module_2/23-resampling-and-monte-carlo-simulation/dsc-2-23-03-kolmogorov-smirnov-test-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-23-03-kolmogorov-smirnov-test-online-ds-pt-100118
+[submodule "Module_2/23-resampling-and-monte-carlo-simulation/dsc-2-23-08-resampling-methods-online-ds-pt-100118"]
+	path = Module_2/23-resampling-and-monte-carlo-simulation/dsc-2-23-08-resampling-methods-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-23-08-resampling-methods-online-ds-pt-100118
+[submodule "Module_2/23-resampling-and-monte-carlo-simulation/dsc-2-23-10-monte-carlo-simulations-online-ds-pt-100118"]
+	path = Module_2/23-resampling-and-monte-carlo-simulation/dsc-2-23-10-monte-carlo-simulations-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-23-10-monte-carlo-simulations-online-ds-pt-100118
+[submodule "Module_2/23-resampling-and-monte-carlo-simulation/dsc-2-23-14-section-recap-online-ds-pt-100118"]
+	path = Module_2/23-resampling-and-monte-carlo-simulation/dsc-2-23-14-section-recap-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-23-14-section-recap-online-ds-pt-100118
+[submodule "Module_2/24-extensions-to-linear-models/dsc-2-24-01-introduction-online-ds-pt-100118"]
+	path = Module_2/24-extensions-to-linear-models/dsc-2-24-01-introduction-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-24-01-introduction-online-ds-pt-100118
+[submodule "Module_2/24-extensions-to-linear-models/dsc-2-24-03-interactions-online-ds-pt-100118"]
+	path = Module_2/24-extensions-to-linear-models/dsc-2-24-03-interactions-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-24-03-interactions-online-ds-pt-100118
+[submodule "Module_2/24-extensions-to-linear-models/dsc-2-24-05-polynomial-regression-online-ds-pt-100118"]
+	path = Module_2/24-extensions-to-linear-models/dsc-2-24-05-polynomial-regression-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-24-05-polynomial-regression-online-ds-pt-100118
+[submodule "Module_2/24-extensions-to-linear-models/dsc-2-24-07-bias-variance-trade-off-online-ds-pt-100118"]
+	path = Module_2/24-extensions-to-linear-models/dsc-2-24-07-bias-variance-trade-off-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-24-07-bias-variance-trade-off-online-ds-pt-100118
+[submodule "Module_2/24-extensions-to-linear-models/dsc-2-24-09-ridge-and-lasso-regression-online-ds-pt-100118"]
+	path = Module_2/24-extensions-to-linear-models/dsc-2-24-09-ridge-and-lasso-regression-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-24-09-ridge-and-lasso-regression-online-ds-pt-100118
+[submodule "Module_2/24-extensions-to-linear-models/dsc-2-24-14-section-recap-online-ds-pt-100118"]
+	path = Module_2/24-extensions-to-linear-models/dsc-2-24-14-section-recap-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-24-14-section-recap-online-ds-pt-100118
+[submodule "Module_2/25-time-series-visualization-and-testing-for-trends/dsc-2-25-01-introduction-online-ds-pt-100118"]
+	path = Module_2/25-time-series-visualization-and-testing-for-trends/dsc-2-25-01-introduction-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-25-01-introduction-online-ds-pt-100118
+[submodule "Module_2/25-time-series-visualization-and-testing-for-trends/dsc-2-25-10-section-recap-online-ds-pt-100118"]
+	path = Module_2/25-time-series-visualization-and-testing-for-trends/dsc-2-25-10-section-recap-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-25-10-section-recap-online-ds-pt-100118
+[submodule "Module_2/26-time-series-modeling/dsc-2-26-01-introduction-online-ds-pt-100118"]
+	path = Module_2/26-time-series-modeling/dsc-2-26-01-introduction-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-26-01-introduction-online-ds-pt-100118
+[submodule "Module_2/26-time-series-modeling/dsc-2-26-11-section-recap-online-ds-pt-100118"]
+	path = Module_2/26-time-series-modeling/dsc-2-26-11-section-recap-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-26-11-section-recap-online-ds-pt-100118
+[submodule "Module_2/27-distance-metrics-and-k-nearest-neighbors/dsc-2-27-01-introduction-online-ds-pt-100118"]
+	path = Module_2/27-distance-metrics-and-k-nearest-neighbors/dsc-2-27-01-introduction-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-27-01-introduction-online-ds-pt-100118
+[submodule "Module_2/27-distance-metrics-and-k-nearest-neighbors/dsc-2-27-13-section-recap-online-ds-pt-100118"]
+	path = Module_2/27-distance-metrics-and-k-nearest-neighbors/dsc-2-27-13-section-recap-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-27-13-section-recap-online-ds-pt-100118
+[submodule "Module_2/28-graph-theory/dsc-2-28-01-introduction-online-ds-pt-100118"]
+	path = Module_2/28-graph-theory/dsc-2-28-01-introduction-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-28-01-introduction-online-ds-pt-100118
+[submodule "Module_2/28-graph-theory/dsc-2-28-15-section-recap-online-ds-pt-100118"]
+	path = Module_2/28-graph-theory/dsc-2-28-15-section-recap-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-28-15-section-recap-online-ds-pt-100118
+[submodule "Module_2/29-introduction-to-logistic-regression/dsc-2-29-01-introduction-online-ds-pt-100118"]
+	path = Module_2/29-introduction-to-logistic-regression/dsc-2-29-01-introduction-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-29-01-introduction-online-ds-pt-100118
+[submodule "Module_2/29-introduction-to-logistic-regression/dsc-2-29-12-section-recap-online-ds-pt-100118"]
+	path = Module_2/29-introduction-to-logistic-regression/dsc-2-29-12-section-recap-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-29-12-section-recap-online-ds-pt-100118
+[submodule "Module_2/30-logistic-regression-in-depth-mle-and-gradient-descent/dsc-2-30-01-introduction-online-ds-pt-100118"]
+	path = Module_2/30-logistic-regression-in-depth-mle-and-gradient-descent/dsc-2-30-01-introduction-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-30-01-introduction-online-ds-pt-100118
+[submodule "Module_2/31-decision-trees/dsc-2-31-01-introduction-online-ds-pt-100118"]
+	path = Module_2/31-decision-trees/dsc-2-31-01-introduction-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-31-01-introduction-online-ds-pt-100118
+[submodule "Module_2/32-ensemble-methods/dsc-2-32-01-introduction-online-ds-pt-100118"]
+	path = Module_2/32-ensemble-methods/dsc-2-32-01-introduction-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-32-01-introduction-online-ds-pt-100118
+[submodule "Module_2/33-support-vector-machines/dsc-2-33-01-introduction-online-ds-pt-100118"]
+	path = Module_2/33-support-vector-machines/dsc-2-33-01-introduction-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-33-01-introduction-online-ds-pt-100118
+[submodule "Module_2/34-dimensionality-reduction-with-pca/dsc-2-34-01-introduction-online-ds-pt-100118"]
+	path = Module_2/34-dimensionality-reduction-with-pca/dsc-2-34-01-introduction-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-34-01-introduction-online-ds-pt-100118
