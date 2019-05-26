@@ -1345,3 +1345,108 @@
 [submodule "Module_3/Project/dsc-3-final-project-online-ds-pt-100118"]
 	path = Module_3/Project/dsc-3-final-project-online-ds-pt-100118
 	url = https://github.com/Socjon/dsc-3-final-project-online-ds-pt-100118
+[submodule "Module_4/37-foundations-of-natural-language-processing-nlp/dsc-4-37-02-introduction-to-nlp-with-nltk-online-ds-pt-100118"]
+	path = Module_4/37-foundations-of-natural-language-processing-nlp/dsc-4-37-02-introduction-to-nlp-with-nltk-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-4-37-02-introduction-to-nlp-with-nltk-online-ds-pt-100118
+[submodule "Module_4/37-foundations-of-natural-language-processing-nlp/dsc-4-37-04-regular-expressions-lab-online-ds-pt-100118"]
+	path = Module_4/37-foundations-of-natural-language-processing-nlp/dsc-4-37-04-regular-expressions-lab-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-4-37-04-regular-expressions-lab-online-ds-pt-100118
+[submodule "Module_4/37-foundations-of-natural-language-processing-nlp/dsc-4-37-06-corpus-statistics-lab-online-ds-pt-100118"]
+	path = Module_4/37-foundations-of-natural-language-processing-nlp/dsc-4-37-06-corpus-statistics-lab-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-4-37-06-corpus-statistics-lab-online-ds-pt-100118
+[submodule "Module_4/37-foundations-of-natural-language-processing-nlp/dsc-4-37-10-text-classification-lab-online-ds-pt-100118"]
+	path = Module_4/37-foundations-of-natural-language-processing-nlp/dsc-4-37-10-text-classification-lab-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-4-37-10-text-classification-lab-online-ds-pt-100118
+[submodule "Module_4/38-big-data-in-pyspark/dsc-4-38-02-intrduction-to-big-data-online-ds-pt-100118"]
+	path = Module_4/38-big-data-in-pyspark/dsc-4-38-02-intrduction-to-big-data-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-4-38-02-intrduction-to-big-data-online-ds-pt-100118
+[submodule "Module_4/38-big-data-in-pyspark/dsc-4-38-03-parallel-and-distributed-computing-with-mapreduce-online-ds-pt-100118"]
+	path = Module_4/38-big-data-in-pyspark/dsc-4-38-03-parallel-and-distributed-computing-with-mapreduce-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-4-38-03-parallel-and-distributed-computing-with-mapreduce-online-ds-pt-100118
+[submodule "Module_4/38-big-data-in-pyspark/dsc-4-38-06-understanding-sparkcontext-online-ds-pt-100118"]
+	path = Module_4/38-big-data-in-pyspark/dsc-4-38-06-understanding-sparkcontext-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-4-38-06-understanding-sparkcontext-online-ds-pt-100118
+[submodule "Module_4/38-big-data-in-pyspark/dsc-4-38-07-resilient-distributed-datasets-rdds-online-ds-pt-100118"]
+	path = Module_4/38-big-data-in-pyspark/dsc-4-38-07-resilient-distributed-datasets-rdds-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-4-38-07-resilient-distributed-datasets-rdds-online-ds-pt-100118
+[submodule "Module_4/38-big-data-in-pyspark/dsc-4-38-08-rdd-transformations-and-actions-lab-online-ds-pt-100118"]
+	path = Module_4/38-big-data-in-pyspark/dsc-4-38-08-rdd-transformations-and-actions-lab-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-4-38-08-rdd-transformations-and-actions-lab-online-ds-pt-100118
+[submodule "Module_4/38-big-data-in-pyspark/dsc-4-38-09-rdd-transformations-and-actions-ii-online-ds-pt-100118"]
+	path = Module_4/38-big-data-in-pyspark/dsc-4-38-09-rdd-transformations-and-actions-ii-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-4-38-09-rdd-transformations-and-actions-ii-online-ds-pt-100118
+[submodule "Module_4/38-big-data-in-pyspark/dsc-4-38-10-rdd-advance-operations-lab-online-ds-pt-100118"]
+	path = Module_4/38-big-data-in-pyspark/dsc-4-38-10-rdd-advance-operations-lab-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-4-38-10-rdd-advance-operations-lab-online-ds-pt-100118
+[submodule "Module_4/38-big-data-in-pyspark/dsc-4-38-11-word-count-with-map-reduce-lab-online-ds-pt-100118"]
+	path = Module_4/38-big-data-in-pyspark/dsc-4-38-11-word-count-with-map-reduce-lab-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-4-38-11-word-count-with-map-reduce-lab-online-ds-pt-100118
+[submodule "Module_4/39-developing-a-recommendation-system-in-pyspark/dsc-4-39-02-intro-to-recommendation-systems-online-ds-pt-100118"]
+	path = Module_4/39-developing-a-recommendation-system-in-pyspark/dsc-4-39-02-intro-to-recommendation-systems-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-4-39-02-intro-to-recommendation-systems-online-ds-pt-100118
+[submodule "Module_4/39-developing-a-recommendation-system-in-pyspark/dsc-4-39-03-collaborative-filtering-singular-value-decomposition-online-ds-pt-100118"]
+	path = Module_4/39-developing-a-recommendation-system-in-pyspark/dsc-4-39-03-collaborative-filtering-singular-value-decomposition-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-4-39-03-collaborative-filtering-singular-value-decomposition-online-ds-pt-100118
+[submodule "Module_4/39-developing-a-recommendation-system-in-pyspark/dsc-4-39-04-singular-value-decomposition-numpy-scipy-lab-online-ds-pt-100118"]
+	path = Module_4/39-developing-a-recommendation-system-in-pyspark/dsc-4-39-04-singular-value-decomposition-numpy-scipy-lab-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-4-39-04-singular-value-decomposition-numpy-scipy-lab-online-ds-pt-100118
+[submodule "Module_4/39-developing-a-recommendation-system-in-pyspark/dsc-4-39-05-matrix-factorization-als-online-ds-pt-100118"]
+	path = Module_4/39-developing-a-recommendation-system-in-pyspark/dsc-4-39-05-matrix-factorization-als-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-4-39-05-matrix-factorization-als-online-ds-pt-100118
+[submodule "Module_4/39-developing-a-recommendation-system-in-pyspark/dsc-4-39-06-building-recommendation-system-als-pyspark-online-ds-pt-100118"]
+	path = Module_4/39-developing-a-recommendation-system-in-pyspark/dsc-4-39-06-building-recommendation-system-als-pyspark-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-4-39-06-building-recommendation-system-als-pyspark-online-ds-pt-100118
+[submodule "Module_4/40-introduction-to-deep-learning/dsc-04-40-03-introduction-to-neural-networks-lab-online-ds-pt-100118"]
+	path = Module_4/40-introduction-to-deep-learning/dsc-04-40-03-introduction-to-neural-networks-lab-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-04-40-03-introduction-to-neural-networks-lab-online-ds-pt-100118
+[submodule "Module_4/40-introduction-to-deep-learning/dsc-04-40-05-deeper-neural-networks-lab-online-ds-pt-100118"]
+	path = Module_4/40-introduction-to-deep-learning/dsc-04-40-05-deeper-neural-networks-lab-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-04-40-05-deeper-neural-networks-lab-online-ds-pt-100118
+[submodule "Module_4/41-multi-layer-perceptrons/dsc-04-41-03-deep-networks-lab-building-an-image-classifier-online-ds-pt-100118"]
+	path = Module_4/41-multi-layer-perceptrons/dsc-04-41-03-deep-networks-lab-building-an-image-classifier-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-04-41-03-deep-networks-lab-building-an-image-classifier-online-ds-pt-100118
+[submodule "Module_4/41-multi-layer-perceptrons/dsc-04-41-05-keras-lab-online-ds-pt-100118"]
+	path = Module_4/41-multi-layer-perceptrons/dsc-04-41-05-keras-lab-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-04-41-05-keras-lab-online-ds-pt-100118
+[submodule "Module_4/42-regularization-and-optimization/dsc-04-42-03-tuning-neural-networks-with-regularization-lab-online-ds-pt-100118"]
+	path = Module_4/42-regularization-and-optimization/dsc-04-42-03-tuning-neural-networks-with-regularization-lab-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-04-42-03-tuning-neural-networks-with-regularization-lab-online-ds-pt-100118
+[submodule "Module_4/42-regularization-and-optimization/dsc-04-42-05-normalization-and-tuning-neural-networks-lab-online-ds-pt-100118"]
+	path = Module_4/42-regularization-and-optimization/dsc-04-42-05-normalization-and-tuning-neural-networks-lab-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-04-42-05-normalization-and-tuning-neural-networks-lab-online-ds-pt-100118
+[submodule "Module_4/42-regularization-and-optimization/dsc-04-42-06-tuning-and-optimizing-neural-networks-lab-online-ds-pt-100118"]
+	path = Module_4/42-regularization-and-optimization/dsc-04-42-06-tuning-and-optimizing-neural-networks-lab-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-04-42-06-tuning-and-optimizing-neural-networks-lab-online-ds-pt-100118
+[submodule "Module_4/43-introduction-to-convolutional-neural-networks/dsc-04-43-03-convolutional-neural-networks-code-along-online-ds-pt-100118"]
+	path = Module_4/43-introduction-to-convolutional-neural-networks/dsc-04-43-03-convolutional-neural-networks-code-along-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-04-43-03-convolutional-neural-networks-code-along-online-ds-pt-100118
+[submodule "Module_4/45-deep-nlp-word-embeddings/dsc-04-45-02-word-embeddings-online-ds-pt-100118"]
+	path = Module_4/45-deep-nlp-word-embeddings/dsc-04-45-02-word-embeddings-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-04-45-02-word-embeddings-online-ds-pt-100118
+[submodule "Module_4/45-deep-nlp-word-embeddings/dsc-04-45-03-using-word2vec-online-ds-pt-100118"]
+	path = Module_4/45-deep-nlp-word-embeddings/dsc-04-45-03-using-word2vec-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-04-45-03-using-word2vec-online-ds-pt-100118
+[submodule "Module_4/45-deep-nlp-word-embeddings/dsc-04-45-04-generating-word-embeddings-lab-online-ds-pt-100118"]
+	path = Module_4/45-deep-nlp-word-embeddings/dsc-04-45-04-generating-word-embeddings-lab-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-04-45-04-generating-word-embeddings-lab-online-ds-pt-100118
+[submodule "Module_4/45-deep-nlp-word-embeddings/dsc-04-45-05-classification-with-word-embeddings-online-ds-pt-100118"]
+	path = Module_4/45-deep-nlp-word-embeddings/dsc-04-45-05-classification-with-word-embeddings-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-04-45-05-classification-with-word-embeddings-online-ds-pt-100118
+[submodule "Module_4/45-deep-nlp-word-embeddings/dsc-04-45-06-classification-with-word-embeddings-lab-online-ds-pt-100118"]
+	path = Module_4/45-deep-nlp-word-embeddings/dsc-04-45-06-classification-with-word-embeddings-lab-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-04-45-06-classification-with-word-embeddings-lab-online-ds-pt-100118
+[submodule "Module_4/46-deep-nlp-sequence-models/dsc-04-46-04-LSTMs-and-GRUs-online-ds-pt-100118"]
+	path = Module_4/46-deep-nlp-sequence-models/dsc-04-46-04-LSTMs-and-GRUs-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-04-46-04-LSTMs-and-GRUs-online-ds-pt-100118
+[submodule "Module_4/46-deep-nlp-sequence-models/dsc-04-46-05-LSTMs-and-GRUs-lab-online-ds-pt-100118"]
+	path = Module_4/46-deep-nlp-sequence-models/dsc-04-46-05-LSTMs-and-GRUs-lab-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-04-46-05-LSTMs-and-GRUs-lab-online-ds-pt-100118
+[submodule "Module_4/46-deep-nlp-sequence-models/dsc-04-46-06-bidirectional-sequence-models-online-ds-pt-100118"]
+	path = Module_4/46-deep-nlp-sequence-models/dsc-04-46-06-bidirectional-sequence-models-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-04-46-06-bidirectional-sequence-models-online-ds-pt-100118
+[submodule "Module_4/46-deep-nlp-sequence-models/dsc-04-46-07-bidirectional-sequence-models-lab-online-ds-pt-100118"]
+	path = Module_4/46-deep-nlp-sequence-models/dsc-04-46-07-bidirectional-sequence-models-lab-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-04-46-07-bidirectional-sequence-models-lab-online-ds-pt-100118
+[submodule "Module_4/Project/dsc-4-final-project-online-ds-pt-100118"]
+	path = Module_4/Project/dsc-4-final-project-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-4-final-project-online-ds-pt-100118
