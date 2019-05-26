@@ -1450,3 +1450,129 @@
 [submodule "Module_4/Project/dsc-4-final-project-online-ds-pt-100118"]
 	path = Module_4/Project/dsc-4-final-project-online-ds-pt-100118
 	url = https://github.com/Socjon/dsc-4-final-project-online-ds-pt-100118
+[submodule "Module_4/37-foundations-of-natural-language-processing-nlp/dsc-4-37-01-introduction-online-ds-pt-100118"]
+	path = Module_4/37-foundations-of-natural-language-processing-nlp/dsc-4-37-01-introduction-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-4-37-01-introduction-online-ds-pt-100118
+[submodule "Module_4/37-foundations-of-natural-language-processing-nlp/dsc-4-37-03-introduction-to-regular-expressions-online-ds-pt-100118"]
+	path = Module_4/37-foundations-of-natural-language-processing-nlp/dsc-4-37-03-introduction-to-regular-expressions-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-4-37-03-introduction-to-regular-expressions-online-ds-pt-100118
+[submodule "Module_4/37-foundations-of-natural-language-processing-nlp/dsc-4-37-05-feature-engineering-for-text-data-online-ds-pt-100118"]
+	path = Module_4/37-foundations-of-natural-language-processing-nlp/dsc-4-37-05-feature-engineering-for-text-data-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-4-37-05-feature-engineering-for-text-data-online-ds-pt-100118
+[submodule "Module_4/37-foundations-of-natural-language-processing-nlp/dsc-4-37-07-context-free-grammars-and-pos-tagging-online-ds-pt-100118"]
+	path = Module_4/37-foundations-of-natural-language-processing-nlp/dsc-4-37-07-context-free-grammars-and-pos-tagging-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-4-37-07-context-free-grammars-and-pos-tagging-online-ds-pt-100118
+[submodule "Module_4/37-foundations-of-natural-language-processing-nlp/dsc-4-37-08-context-free-grammars-lab-online-ds-pt-100118"]
+	path = Module_4/37-foundations-of-natural-language-processing-nlp/dsc-4-37-08-context-free-grammars-lab-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-4-37-08-context-free-grammars-lab-online-ds-pt-100118
+[submodule "Module_4/37-foundations-of-natural-language-processing-nlp/dsc-4-37-09-text-classification-online-ds-pt-100118"]
+	path = Module_4/37-foundations-of-natural-language-processing-nlp/dsc-4-37-09-text-classification-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-4-37-09-text-classification-online-ds-pt-100118
+[submodule "Module_4/37-foundations-of-natural-language-processing-nlp/dsc-4-37-11-section-recap-online-ds-pt-100118"]
+	path = Module_4/37-foundations-of-natural-language-processing-nlp/dsc-4-37-11-section-recap-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-4-37-11-section-recap-online-ds-pt-100118
+[submodule "Module_4/38-big-data-in-pyspark/dsc-4-38-01-introduction-online-ds-pt-100118"]
+	path = Module_4/38-big-data-in-pyspark/dsc-4-38-01-introduction-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-4-38-01-introduction-online-ds-pt-100118
+[submodule "Module_4/38-big-data-in-pyspark/dsc-4-38-04-big-data-analytics-apache-spark-online-ds-pt-100118"]
+	path = Module_4/38-big-data-in-pyspark/dsc-4-38-04-big-data-analytics-apache-spark-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-4-38-04-big-data-analytics-apache-spark-online-ds-pt-100118
+[submodule "Module_4/38-big-data-in-pyspark/dsc-4-38-05-installing-configuring-spark-with-docker-online-ds-pt-100118"]
+	path = Module_4/38-big-data-in-pyspark/dsc-4-38-05-installing-configuring-spark-with-docker-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-4-38-05-installing-configuring-spark-with-docker-online-ds-pt-100118
+[submodule "Module_4/38-big-data-in-pyspark/dsc-4-38-12-section-recap-online-ds-pt-100118"]
+	path = Module_4/38-big-data-in-pyspark/dsc-4-38-12-section-recap-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-4-38-12-section-recap-online-ds-pt-100118
+[submodule "Module_4/39-developing-a-recommendation-system-in-pyspark/dsc-4-39-01-introduction-online-ds-pt-100118"]
+	path = Module_4/39-developing-a-recommendation-system-in-pyspark/dsc-4-39-01-introduction-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-4-39-01-introduction-online-ds-pt-100118
+[submodule "Module_4/39-developing-a-recommendation-system-in-pyspark/dsc-4-39-07-section-recap-online-ds-pt-100118"]
+	path = Module_4/39-developing-a-recommendation-system-in-pyspark/dsc-4-39-07-section-recap-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-4-39-07-section-recap-online-ds-pt-100118
+[submodule "Module_4/40-introduction-to-deep-learning/dsc-4-40-01-introduction-online-ds-pt-100118"]
+	path = Module_4/40-introduction-to-deep-learning/dsc-4-40-01-introduction-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-4-40-01-introduction-online-ds-pt-100118
+[submodule "Module_4/40-introduction-to-deep-learning/dsc-04-40-02-introduction-to-neural-networks-online-ds-pt-100118"]
+	path = Module_4/40-introduction-to-deep-learning/dsc-04-40-02-introduction-to-neural-networks-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-04-40-02-introduction-to-neural-networks-online-ds-pt-100118
+[submodule "Module_4/40-introduction-to-deep-learning/dsc-04-40-04-deeper-neural-networks-online-ds-pt-100118"]
+	path = Module_4/40-introduction-to-deep-learning/dsc-04-40-04-deeper-neural-networks-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-04-40-04-deeper-neural-networks-online-ds-pt-100118
+[submodule "Module_4/40-introduction-to-deep-learning/dsc-4-40-06-section-recap-online-ds-pt-100118"]
+	path = Module_4/40-introduction-to-deep-learning/dsc-4-40-06-section-recap-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-4-40-06-section-recap-online-ds-pt-100118
+[submodule "Module_4/41-multi-layer-perceptrons/dsc-4-41-01-Introduction-online-ds-pt-100118"]
+	path = Module_4/41-multi-layer-perceptrons/dsc-4-41-01-Introduction-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-4-41-01-Introduction-online-ds-pt-100118
+[submodule "Module_4/41-multi-layer-perceptrons/dsc-04-41-02-deep-networks-online-ds-pt-100118"]
+	path = Module_4/41-multi-layer-perceptrons/dsc-04-41-02-deep-networks-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-04-41-02-deep-networks-online-ds-pt-100118
+[submodule "Module_4/41-multi-layer-perceptrons/dsc-04-41-04-introduction-to-keras-online-ds-pt-100118"]
+	path = Module_4/41-multi-layer-perceptrons/dsc-04-41-04-introduction-to-keras-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-04-41-04-introduction-to-keras-online-ds-pt-100118
+[submodule "Module_4/41-multi-layer-perceptrons/dsc-4-41-06-section-recap-online-ds-pt-100118"]
+	path = Module_4/41-multi-layer-perceptrons/dsc-4-41-06-section-recap-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-4-41-06-section-recap-online-ds-pt-100118
+[submodule "Module_4/42-regularization-and-optimization/dsc-4-42-01-Introduction-online-ds-pt-100118"]
+	path = Module_4/42-regularization-and-optimization/dsc-4-42-01-Introduction-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-4-42-01-Introduction-online-ds-pt-100118
+[submodule "Module_4/42-regularization-and-optimization/dsc-04-42-02-tuning-neural-networks-with-regularization-online-ds-pt-100118"]
+	path = Module_4/42-regularization-and-optimization/dsc-04-42-02-tuning-neural-networks-with-regularization-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-04-42-02-tuning-neural-networks-with-regularization-online-ds-pt-100118
+[submodule "Module_4/42-regularization-and-optimization/dsc-04-42-04-normalization-and-parameter-tuning-of-neural-networks-online-ds-pt-100118"]
+	path = Module_4/42-regularization-and-optimization/dsc-04-42-04-normalization-and-parameter-tuning-of-neural-networks-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-04-42-04-normalization-and-parameter-tuning-of-neural-networks-online-ds-pt-100118
+[submodule "Module_4/42-regularization-and-optimization/dsc-4-42-07-section-recap-online-ds-pt-100118"]
+	path = Module_4/42-regularization-and-optimization/dsc-4-42-07-section-recap-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-4-42-07-section-recap-online-ds-pt-100118
+[submodule "Module_4/43-introduction-to-convolutional-neural-networks/dsc-4-43-01-introduction-online-ds-pt-100118"]
+	path = Module_4/43-introduction-to-convolutional-neural-networks/dsc-4-43-01-introduction-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-4-43-01-introduction-online-ds-pt-100118
+[submodule "Module_4/43-introduction-to-convolutional-neural-networks/dsc-04-43-02-convolutional-neural-networks-online-ds-pt-100118"]
+	path = Module_4/43-introduction-to-convolutional-neural-networks/dsc-04-43-02-convolutional-neural-networks-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-04-43-02-convolutional-neural-networks-online-ds-pt-100118
+[submodule "Module_4/43-introduction-to-convolutional-neural-networks/dsc-04-43-04-building-a-cnn-from-scratch-online-ds-pt-100118"]
+	path = Module_4/43-introduction-to-convolutional-neural-networks/dsc-04-43-04-building-a-cnn-from-scratch-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-04-43-04-building-a-cnn-from-scratch-online-ds-pt-100118
+[submodule "Module_4/43-introduction-to-convolutional-neural-networks/dsc-04-43-05-visualizing-intermediate-activations-online-ds-pt-100118"]
+	path = Module_4/43-introduction-to-convolutional-neural-networks/dsc-04-43-05-visualizing-intermediate-activations-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-04-43-05-visualizing-intermediate-activations-online-ds-pt-100118
+[submodule "Module_4/43-introduction-to-convolutional-neural-networks/dsc-04-43-06-visualizing-intermediate-activations-lab-online-ds-pt-100118"]
+	path = Module_4/43-introduction-to-convolutional-neural-networks/dsc-04-43-06-visualizing-intermediate-activations-lab-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-04-43-06-visualizing-intermediate-activations-lab-online-ds-pt-100118
+[submodule "Module_4/43-introduction-to-convolutional-neural-networks/dsc-4-43-07-section-recap-online-ds-pt-100118"]
+	path = Module_4/43-introduction-to-convolutional-neural-networks/dsc-4-43-07-section-recap-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-4-43-07-section-recap-online-ds-pt-100118
+[submodule "Module_4/44-convolutional-neural-networks-continued/dsc-4-44-01-introduction-online-ds-pt-100118"]
+	path = Module_4/44-convolutional-neural-networks-continued/dsc-4-44-01-introduction-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-4-44-01-introduction-online-ds-pt-100118
+[submodule "Module_4/44-convolutional-neural-networks-continued/dsc-04-44-02-using-pretrained-networks-online-ds-pt-100118"]
+	path = Module_4/44-convolutional-neural-networks-continued/dsc-04-44-02-using-pretrained-networks-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-04-44-02-using-pretrained-networks-online-ds-pt-100118
+[submodule "Module_4/44-convolutional-neural-networks-continued/dsc-04-44-03-using-pretrained-networks-codealong-online-ds-pt-100118"]
+	path = Module_4/44-convolutional-neural-networks-continued/dsc-04-44-03-using-pretrained-networks-codealong-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-04-44-03-using-pretrained-networks-codealong-online-ds-pt-100118
+[submodule "Module_4/44-convolutional-neural-networks-continued/dsc-04-44-04-image-classifcation-lab-online-ds-pt-100118"]
+	path = Module_4/44-convolutional-neural-networks-continued/dsc-04-44-04-image-classifcation-lab-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-04-44-04-image-classifcation-lab-online-ds-pt-100118
+[submodule "Module_4/44-convolutional-neural-networks-continued/dsc-4-44-05-section-recap-online-ds-pt-100118"]
+	path = Module_4/44-convolutional-neural-networks-continued/dsc-4-44-05-section-recap-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-4-44-05-section-recap-online-ds-pt-100118
+[submodule "Module_4/45-deep-nlp-word-embeddings/dsc-4-45-01-introduction-online-ds-pt-100118"]
+	path = Module_4/45-deep-nlp-word-embeddings/dsc-4-45-01-introduction-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-4-45-01-introduction-online-ds-pt-100118
+[submodule "Module_4/45-deep-nlp-word-embeddings/dsc-4-45-07-section-recap-online-ds-pt-100118"]
+	path = Module_4/45-deep-nlp-word-embeddings/dsc-4-45-07-section-recap-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-4-45-07-section-recap-online-ds-pt-100118
+[submodule "Module_4/46-deep-nlp-sequence-models/dsc-4-46-01-introduction-online-ds-pt-100118"]
+	path = Module_4/46-deep-nlp-sequence-models/dsc-4-46-01-introduction-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-4-46-01-introduction-online-ds-pt-100118
+[submodule "Module_4/46-deep-nlp-sequence-models/dsc-04-46-02-sequence-model-use-cases-online-ds-pt-100118"]
+	path = Module_4/46-deep-nlp-sequence-models/dsc-04-46-02-sequence-model-use-cases-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-04-46-02-sequence-model-use-cases-online-ds-pt-100118
+[submodule "Module_4/46-deep-nlp-sequence-models/dsc-04-46-03-understanding-recurrent-neural-networks-online-ds-pt-100118"]
+	path = Module_4/46-deep-nlp-sequence-models/dsc-04-46-03-understanding-recurrent-neural-networks-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-04-46-03-understanding-recurrent-neural-networks-online-ds-pt-100118
+[submodule "Module_4/46-deep-nlp-sequence-models/dsc-4-46-08-section-recap-online-ds-pt-100118"]
+	path = Module_4/46-deep-nlp-sequence-models/dsc-4-46-08-section-recap-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-4-46-08-section-recap-online-ds-pt-100118
