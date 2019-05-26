@@ -1213,3 +1213,135 @@
 [submodule "Module_3/36-building-a-machine-learning-pipeline/dsc-3-36-03-comparing-machine-learning-techniques-using-pipelines-lab-online-ds-pt-100118"]
 	path = Module_3/36-building-a-machine-learning-pipeline/dsc-3-36-03-comparing-machine-learning-techniques-using-pipelines-lab-online-ds-pt-100118
 	url = https://github.com/Socjon/dsc-3-36-03-comparing-machine-learning-techniques-using-pipelines-lab-online-ds-pt-100118
+[submodule "Module_3/25-time-series-visualization-and-testing-for-trends/dsc-3-25-09-time-series-decomposition-online-ds-pt-100118"]
+	path = Module_3/25-time-series-visualization-and-testing-for-trends/dsc-3-25-09-time-series-decomposition-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-3-25-09-time-series-decomposition-online-ds-pt-100118
+[submodule "Module_3/26-time-series-modeling/dsc-3-26-06-arma-models-online-ds-pt-100118"]
+	path = Module_3/26-time-series-modeling/dsc-3-26-06-arma-models-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-3-26-06-arma-models-online-ds-pt-100118
+[submodule "Module_3/27-distance-metrics-and-k-nearest-neighbors/dsc-3-27-04-k-nearest-neighbors-online-ds-pt-100118"]
+	path = Module_3/27-distance-metrics-and-k-nearest-neighbors/dsc-3-27-04-k-nearest-neighbors-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-3-27-04-k-nearest-neighbors-online-ds-pt-100118
+[submodule "Module_3/27-distance-metrics-and-k-nearest-neighbors/dsc-3-27-06-confusion-matrices-online-ds-pt-100118"]
+	path = Module_3/27-distance-metrics-and-k-nearest-neighbors/dsc-3-27-06-confusion-matrices-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-3-27-06-confusion-matrices-online-ds-pt-100118
+[submodule "Module_3/27-distance-metrics-and-k-nearest-neighbors/dsc-3-27-09-finding-the-best-value-for-k-online-ds-pt-100118"]
+	path = Module_3/27-distance-metrics-and-k-nearest-neighbors/dsc-3-27-09-finding-the-best-value-for-k-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-3-27-09-finding-the-best-value-for-k-online-ds-pt-100118
+[submodule "Module_3/28-graph-theory/dsc-3-28-02-introduction-to-graph-theory-online-ds-pt-100118"]
+	path = Module_3/28-graph-theory/dsc-3-28-02-introduction-to-graph-theory-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-3-28-02-introduction-to-graph-theory-online-ds-pt-100118
+[submodule "Module_3/28-graph-theory/dsc-3-28-03-graphs-python-networkx-codealong-online-ds-pt-100118"]
+	path = Module_3/28-graph-theory/dsc-3-28-03-graphs-python-networkx-codealong-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-3-28-03-graphs-python-networkx-codealong-online-ds-pt-100118
+[submodule "Module_3/28-graph-theory/dsc-3-28-08-graph-dynamics-node-centrality-codealong-online-ds-pt-100118"]
+	path = Module_3/28-graph-theory/dsc-3-28-08-graph-dynamics-node-centrality-codealong-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-3-28-08-graph-dynamics-node-centrality-codealong-online-ds-pt-100118
+[submodule "Module_3/28-graph-theory/dsc-3-28-10-graph-dynamics-bipartite-graphs-online-ds-pt-100118"]
+	path = Module_3/28-graph-theory/dsc-3-28-10-graph-dynamics-bipartite-graphs-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-3-28-10-graph-dynamics-bipartite-graphs-online-ds-pt-100118
+[submodule "Module_3/28-graph-theory/dsc-3-28-12-graph-connectivity-community-detection-online-ds-pt-100118"]
+	path = Module_3/28-graph-theory/dsc-3-28-12-graph-connectivity-community-detection-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-3-28-12-graph-connectivity-community-detection-online-ds-pt-100118
+[submodule "Module_3/28-graph-theory/dsc-3-28-13-sna-ego-networks-online-ds-pt-100118"]
+	path = Module_3/28-graph-theory/dsc-3-28-13-sna-ego-networks-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-3-28-13-sna-ego-networks-online-ds-pt-100118
+[submodule "Module_3/29-introduction-to-logistic-regression/dsc-3-29-02-linear-to-logistic-regression-online-ds-pt-100118"]
+	path = Module_3/29-introduction-to-logistic-regression/dsc-3-29-02-linear-to-logistic-regression-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-3-29-02-linear-to-logistic-regression-online-ds-pt-100118
+[submodule "Module_3/29-introduction-to-logistic-regression/dsc-3-29-06-evaluating-logistic-regression-models-lab-online-ds-pt-100118"]
+	path = Module_3/29-introduction-to-logistic-regression/dsc-3-29-06-evaluating-logistic-regression-models-lab-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-3-29-06-evaluating-logistic-regression-models-lab-online-ds-pt-100118
+[submodule "Module_3/30-logistic-regression-in-depth-mle-and-gradient-descent/dsc-3-30-02-mle-review-online-ds-pt-100118"]
+	path = Module_3/30-logistic-regression-in-depth-mle-and-gradient-descent/dsc-3-30-02-mle-review-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-3-30-02-mle-review-online-ds-pt-100118
+[submodule "Module_3/30-logistic-regression-in-depth-mle-and-gradient-descent/dsc-3-30-03-mle-and-logistic-regression-online-ds-pt-100118"]
+	path = Module_3/30-logistic-regression-in-depth-mle-and-gradient-descent/dsc-3-30-03-mle-and-logistic-regression-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-3-30-03-mle-and-logistic-regression-online-ds-pt-100118
+[submodule "Module_3/30-logistic-regression-in-depth-mle-and-gradient-descent/dsc-3-30-04-gradient-descent-review-online-ds-pt-100118"]
+	path = Module_3/30-logistic-regression-in-depth-mle-and-gradient-descent/dsc-3-30-04-gradient-descent-review-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-3-30-04-gradient-descent-review-online-ds-pt-100118
+[submodule "Module_3/30-logistic-regression-in-depth-mle-and-gradient-descent/dsc-3-30-07-logistic-regression-model-comparisons-lab-online-ds-pt-100118"]
+	path = Module_3/30-logistic-regression-in-depth-mle-and-gradient-descent/dsc-3-30-07-logistic-regression-model-comparisons-lab-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-3-30-07-logistic-regression-model-comparisons-lab-online-ds-pt-100118
+[submodule "Module_3/30-logistic-regression-in-depth-mle-and-gradient-descent/dsc-3-30-08-section-recap-online-ds-pt-100118"]
+	path = Module_3/30-logistic-regression-in-depth-mle-and-gradient-descent/dsc-3-30-08-section-recap-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-3-30-08-section-recap-online-ds-pt-100118
+[submodule "Module_3/31-decision-trees/dsc-3-31-02-introduction-to-PAC-learning-theory-online-ds-pt-100118"]
+	path = Module_3/31-decision-trees/dsc-3-31-02-introduction-to-PAC-learning-theory-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-3-31-02-introduction-to-PAC-learning-theory-online-ds-pt-100118
+[submodule "Module_3/31-decision-trees/dsc-3-31-03-introduction-to-decision-trees-online-ds-pt-100118"]
+	path = Module_3/31-decision-trees/dsc-3-31-03-introduction-to-decision-trees-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-3-31-03-introduction-to-decision-trees-online-ds-pt-100118
+[submodule "Module_3/31-decision-trees/dsc-3-31-04-entropy-information-gain-online-ds-pt-100118"]
+	path = Module_3/31-decision-trees/dsc-3-31-04-entropy-information-gain-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-3-31-04-entropy-information-gain-online-ds-pt-100118
+[submodule "Module_3/31-decision-trees/dsc-3-31-08-decision-tree-pruning-hyperparameter-optimization-online-ds-pt-100118"]
+	path = Module_3/31-decision-trees/dsc-3-31-08-decision-tree-pruning-hyperparameter-optimization-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-3-31-08-decision-tree-pruning-hyperparameter-optimization-online-ds-pt-100118
+[submodule "Module_3/31-decision-trees/dsc-3-31-13-section-recap-online-ds-pt-100118"]
+	path = Module_3/31-decision-trees/dsc-3-31-13-section-recap-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-3-31-13-section-recap-online-ds-pt-100118
+[submodule "Module_3/32-ensemble-methods/dsc-3-32-10-xgboost-online-ds-pt-100118"]
+	path = Module_3/32-ensemble-methods/dsc-3-32-10-xgboost-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-3-32-10-xgboost-online-ds-pt-100118
+[submodule "Module_3/32-ensemble-methods/dsc-3-32-12-section-recap-online-ds-pt-100118"]
+	path = Module_3/32-ensemble-methods/dsc-3-32-12-section-recap-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-3-32-12-section-recap-online-ds-pt-100118
+[submodule "Module_3/33-support-vector-machines/dsc-3-33-05-the-kernel-trick-online-ds-pt-100118"]
+	path = Module_3/33-support-vector-machines/dsc-3-33-05-the-kernel-trick-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-3-33-05-the-kernel-trick-online-ds-pt-100118
+[submodule "Module_3/33-support-vector-machines/dsc-3-33-07-section-recap-online-ds-pt-100118"]
+	path = Module_3/33-support-vector-machines/dsc-3-33-07-section-recap-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-3-33-07-section-recap-online-ds-pt-100118
+[submodule "Module_3/35-clustering/dsc-3-35-02-unsupervised-learning-online-ds-pt-100118"]
+	path = Module_3/35-clustering/dsc-3-35-02-unsupervised-learning-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-3-35-02-unsupervised-learning-online-ds-pt-100118
+[submodule "Module_3/33-support-vector-machines/dsc-3-33-02-curse-of-dimensionality-online-ds-pt-100118"]
+	path = Module_3/33-support-vector-machines/dsc-3-33-02-curse-of-dimensionality-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-3-33-02-curse-of-dimensionality-online-ds-pt-100118
+[submodule "Module_3/34-dimensionality-reduction-with-pca/dsc-3-34-04-pca-covariance-mat-eigendecomp-online-ds-pt-100118"]
+	path = Module_3/34-dimensionality-reduction-with-pca/dsc-3-34-04-pca-covariance-mat-eigendecomp-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-3-34-04-pca-covariance-mat-eigendecomp-online-ds-pt-100118
+[submodule "Module_3/34-dimensionality-reduction-with-pca/dsc-3-34-05-understanding-principle-component-analysis-online-ds-pt-100118"]
+	path = Module_3/34-dimensionality-reduction-with-pca/dsc-3-34-05-understanding-principle-component-analysis-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-3-34-05-understanding-principle-component-analysis-online-ds-pt-100118
+[submodule "Module_3/34-dimensionality-reduction-with-pca/dsc-3-34-06-performing-principle-component-analysis-online-ds-pt-100118"]
+	path = Module_3/34-dimensionality-reduction-with-pca/dsc-3-34-06-performing-principle-component-analysis-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-3-34-06-performing-principle-component-analysis-online-ds-pt-100118
+[submodule "Module_3/34-dimensionality-reduction-with-pca/dsc-3-34-08-principle-component-analysis-in-scikitlearn-online-ds-pt-100118"]
+	path = Module_3/34-dimensionality-reduction-with-pca/dsc-3-34-08-principle-component-analysis-in-scikitlearn-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-3-34-08-principle-component-analysis-in-scikitlearn-online-ds-pt-100118
+[submodule "Module_3/34-dimensionality-reduction-with-pca/dsc-3-34-12-facial-recognition-with-pca-and-eigenfaces-lab-online-ds-pt-100118"]
+	path = Module_3/34-dimensionality-reduction-with-pca/dsc-3-34-12-facial-recognition-with-pca-and-eigenfaces-lab-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-3-34-12-facial-recognition-with-pca-and-eigenfaces-lab-online-ds-pt-100118
+[submodule "Module_3/34-dimensionality-reduction-with-pca/dsc-3-34-13-section-recap-online-ds-pt-100118"]
+	path = Module_3/34-dimensionality-reduction-with-pca/dsc-3-34-13-section-recap-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-3-34-13-section-recap-online-ds-pt-100118
+[submodule "Module_3/35-clustering/dsc-3-35-01-introduction-online-ds-pt-100118"]
+	path = Module_3/35-clustering/dsc-3-35-01-introduction-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-3-35-01-introduction-online-ds-pt-100118
+[submodule "Module_3/35-clustering/dsc-3-35-03-k-means-clustering-online-ds-pt-100118"]
+	path = Module_3/35-clustering/dsc-3-35-03-k-means-clustering-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-3-35-03-k-means-clustering-online-ds-pt-100118
+[submodule "Module_3/35-clustering/dsc-3-35-06-common-problems-with-clustering-online-ds-pt-100118"]
+	path = Module_3/35-clustering/dsc-3-35-06-common-problems-with-clustering-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-3-35-06-common-problems-with-clustering-online-ds-pt-100118
+[submodule "Module_3/35-clustering/dsc-3-35-08-market-segmentation-with-clustering-online-ds-pt-100118"]
+	path = Module_3/35-clustering/dsc-3-35-08-market-segmentation-with-clustering-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-3-35-08-market-segmentation-with-clustering-online-ds-pt-100118
+[submodule "Module_3/35-clustering/dsc-3-35-11-section-recap-online-ds-pt-100118"]
+	path = Module_3/35-clustering/dsc-3-35-11-section-recap-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-3-35-11-section-recap-online-ds-pt-100118
+[submodule "Module_3/36-building-a-machine-learning-pipeline/dsc-3-36-01-introduction-online-ds-pt-100118"]
+	path = Module_3/36-building-a-machine-learning-pipeline/dsc-3-36-01-introduction-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-3-36-01-introduction-online-ds-pt-100118
+[submodule "Module_3/36-building-a-machine-learning-pipeline/dsc-3-36-02-Introduction-to-pipelines-online-ds-pt-100118"]
+	path = Module_3/36-building-a-machine-learning-pipeline/dsc-3-36-02-Introduction-to-pipelines-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-3-36-02-Introduction-to-pipelines-online-ds-pt-100118
+[submodule "Module_3/36-building-a-machine-learning-pipeline/dsc-3-36-04-section-recap-online-ds-pt-100118"]
+	path = Module_3/36-building-a-machine-learning-pipeline/dsc-3-36-04-section-recap-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-3-36-04-section-recap-online-ds-pt-100118
+[submodule "Module_3/Project/dsc-3-final-project-online-ds-pt-100118"]
+	path = Module_3/Project/dsc-3-final-project-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-3-final-project-online-ds-pt-100118
