@@ -1576,3 +1576,15 @@
 [submodule "Module_4/46-deep-nlp-sequence-models/dsc-4-46-08-section-recap-online-ds-pt-100118"]
 	path = Module_4/46-deep-nlp-sequence-models/dsc-4-46-08-section-recap-online-ds-pt-100118
 	url = https://github.com/Socjon/dsc-4-46-08-section-recap-online-ds-pt-100118
+[submodule "Module_2/13-linear-algebra/dsc-2-13-02-introduction-summary-online-ds-pt-100118"]
+	path = Module_2/13-linear-algebra/dsc-2-13-02-introduction-summary-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-13-02-introduction-summary-online-ds-pt-100118
+[submodule "Module_2/13-linear-algebra/dsc-2-13-03-lingalg-motivation-online-ds-pt-100118"]
+	path = Module_2/13-linear-algebra/dsc-2-13-03-lingalg-motivation-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-13-03-lingalg-motivation-online-ds-pt-100118
+[submodule "Module_2/13-linear-algebra/dsc-2-13-04-lingalg-linear-equations-online-ds-pt-100118"]
+	path = Module_2/13-linear-algebra/dsc-2-13-04-lingalg-linear-equations-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-13-04-lingalg-linear-equations-online-ds-pt-100118
+[submodule "Module_2/13-linear-algebra/dsc-2-13-05-lingalg-linear-equations-quiz-online-ds-pt-100118"]
+	path = Module_2/13-linear-algebra/dsc-2-13-05-lingalg-linear-equations-quiz-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-13-05-lingalg-linear-equations-quiz-online-ds-pt-100118
