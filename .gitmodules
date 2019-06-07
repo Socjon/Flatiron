@@ -1588,3 +1588,12 @@
 [submodule "Module_2/13-linear-algebra/dsc-2-13-05-lingalg-linear-equations-quiz-online-ds-pt-100118"]
 	path = Module_2/13-linear-algebra/dsc-2-13-05-lingalg-linear-equations-quiz-online-ds-pt-100118
 	url = https://github.com/Socjon/dsc-2-13-05-lingalg-linear-equations-quiz-online-ds-pt-100118
+[submodule "Module_2/13-linear-algebra/dsc-2-13-09-linalg-mat-multiplication-codealong-online-ds-pt-100118"]
+	path = Module_2/13-linear-algebra/dsc-2-13-09-linalg-mat-multiplication-codealong-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-13-09-linalg-mat-multiplication-codealong-online-ds-pt-100118
+[submodule "Module_2/13-linear-algebra/dsc-2-13-14-linalg-regression-codealong-online-ds-pt-100118"]
+	path = Module_2/13-linear-algebra/dsc-2-13-14-linalg-regression-codealong-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-13-14-linalg-regression-codealong-online-ds-pt-100118
+[submodule "Module_2/13-linear-algebra/dsc-2-13-16-computational-complexity-online-ds-pt-100118"]
+	path = Module_2/13-linear-algebra/dsc-2-13-16-computational-complexity-online-ds-pt-100118
+	url = https://github.com/Socjon/dsc-2-13-16-computational-complexity-online-ds-pt-100118
